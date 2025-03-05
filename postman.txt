@@ -1,0 +1,4 @@
+PATCH https://lwxxckmjaucfdcozdprw.supabase.co/rest/v1/grades?id=eq.2 , а после в Body выбрать raw формат JSON и написать там изменения. В моем случае я изменил на 2 
+{
+    "grade":2
+}
