@@ -11,3 +11,8 @@ POST https://lwxxckmjaucfdcozdprw.supabase.co/rest/v1/works , а после В �
         "teacher": 2,
         "work": "1-а 2-б 3-г"
 }
+POST https://lwxxckmjaucfdcozdprw.supabase.co/rest/v1/teacher , а после В после в Body выбрать raw формат JSON и написать там новые данные.
+{
+        "id": 2,
+        "name": "Владимир Васильевич"
+}
