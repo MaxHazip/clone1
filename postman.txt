@@ -16,3 +16,4 @@ POST https://lwxxckmjaucfdcozdprw.supabase.co/rest/v1/teacher , а после В
         "id": 2,
         "name": "Владимир Васильевич"
 }
+GET https://lwxxckmjaucfdcozdprw.supabase.co/rest/v1/grades?grade=gt.2 , получаем все работы, у которых оценка больше двух.
