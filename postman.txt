@@ -2,3 +2,12 @@ PATCH https://lwxxckmjaucfdcozdprw.supabase.co/rest/v1/grades?id=eq.2 , а по�
 {
     "grade":2
 }
+POST https://lwxxckmjaucfdcozdprw.supabase.co/rest/v1/works , а после В после в Body выбрать raw формат JSON и написать там новые данные. Я добавил
+{
+        "id": 3,
+        "name": "Практическая работа №2",
+        "author": 2,
+        "description": "Вторая практическая работа",
+        "teacher": 2,
+        "work": "1-а 2-б 3-г"
+}
