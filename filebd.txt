@@ -1,0 +1,1 @@
+В его базе данных присутствует 4 таблицы grades, works, students, teacher.
