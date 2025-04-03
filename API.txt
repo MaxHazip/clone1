@@ -1,0 +1,3 @@
+API key: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imx3eHhja21qYXVjZmRjb3pkcHJ3Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3Mzk5NTc3MzYsImV4cCI6MjA1NTUzMzczNn0.PUcU__i1X-Gp8B0h4ycyZjoEnseMcdVjRmUPhaOJvBg
+
+Project URL: https://lwxxckmjaucfdcozdprw.supabase.co
